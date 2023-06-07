@@ -1,12 +1,9 @@
-# Simple-Unity-2D-Game
-Simple Unity 2D Game
+# Fox Game
 
 <img src="Screenshots/foxxie.png">
 
-This is a basic game that is not yet completed.
+Проста гра про лисицю
 
-## Implementations so far
-- Basic movement system, which involves collision and jumping as well
-- Checkpoint/respawn system
-- Fruit(point) collection
-- Assets for the first stage of the game
+## Можливості
+- Рухатись по рівню, зі стрибками в гору
+- Збирати фрукти
